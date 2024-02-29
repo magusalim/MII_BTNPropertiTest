@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-HHP-02</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>310f8252-7867-4d61-a363-6882ac77f919</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9481b59a-0149-434b-a73a-fcd08cc049cb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>186467bd-376e-43dd-a6d6-40fc3c294f73</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>25efa116-52af-4278-8b6b-53ef829d4c44</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9481b59a-0149-434b-a73a-fcd08cc049cb</id>
+      <masked>true</masked>
+      <name>Penghasilan</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>186467bd-376e-43dd-a6d6-40fc3c294f73</id>
+      <masked>true</masked>
+      <name>Pengeluaran</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>25efa116-52af-4278-8b6b-53ef829d4c44</id>
+      <masked>true</masked>
+      <name>JangkaWaktu</name>
+   </variable>
+</TestCaseEntity>

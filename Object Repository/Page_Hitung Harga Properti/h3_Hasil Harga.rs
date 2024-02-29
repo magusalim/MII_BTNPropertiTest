@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Hasil Harga</name>
+   <tag></tag>
+   <elementGuidId>b6d1736a-3858-4495-b439-395ddfe63234</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='harga_hasil']/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>553dfa35-3616-4bd6-b3cb-41c502477ef7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rp 9.000.000</value>
+      <webElementGuid>4a2b42f6-657b-4eb6-aa71-330d0392b4cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;harga_hasil&quot;)/h3[1]</value>
+      <webElementGuid>b6078c06-0310-4281-bf6a-e91742005dcc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='harga_hasil']/h3</value>
+      <webElementGuid>0ae69cce-8963-4bcc-8431-6d3c66e3cc7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Harga Properti Maksimal Kamu'])[1]/following::h3[1]</value>
+      <webElementGuid>f22b3447-f8da-4f01-9938-48ad3476340d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hitung Ulang'])[1]/following::h3[1]</value>
+      <webElementGuid>371ef3e5-16f2-49c4-83bb-7a81cf7e5660</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lokasi'])[1]/preceding::h3[1]</value>
+      <webElementGuid>0e147628-f4a7-47a3-bb23-4980bf9b5daf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CARI PROPERTI'])[1]/preceding::h3[1]</value>
+      <webElementGuid>52169b6c-ac2b-48ec-8fab-904586afa104</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>3f4a68a3-1fdf-45f3-a90d-28f7076c5f7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Rp 9.000.000' or . = 'Rp 9.000.000')]</value>
+      <webElementGuid>b5394c74-0004-452b-9868-c29f3d6f12b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Jangka Waktu</name>
+   <tag></tag>
+   <elementGuidId>7f61d22d-6b4b-4ae0-8d35-12a45840d10b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='waktu']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#waktu</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>989c8bd1-9d3e-4ecd-a654-e08c974ea01e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>waktu</value>
+      <webElementGuid>a8af2de7-758c-4a9c-b595-5a8deed98c1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>floating-label-select custom-select-profile form-select </value>
+      <webElementGuid>1f382941-a8cd-4ec0-8838-1cd9cc9bc56f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jangka Waktu1 Tahun2 Tahun3 Tahun4 Tahun5 Tahun6 Tahun7 Tahun8 Tahun9 Tahun10 Tahun11 Tahun12 Tahun13 Tahun14 Tahun15 Tahun16 Tahun17 Tahun18 Tahun19 Tahun20 Tahun21 Tahun22 Tahun23 Tahun24 Tahun25 Tahun26 Tahun27 Tahun28 Tahun29 Tahun30 Tahun</value>
+      <webElementGuid>495fe7f0-1143-4cb9-b098-6a51e10fb538</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;waktu&quot;)</value>
+      <webElementGuid>edf05a37-4b0f-4743-8e77-dab169794c0d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='waktu']</value>
+      <webElementGuid>be3b03af-857d-411e-b26f-6a3caa35e408</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form_hitung_harga']/div/div[3]/select</value>
+      <webElementGuid>56d89e35-fd4f-4a8e-a4b1-8d2bff48c169</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Per Bulan'])[2]/following::select[1]</value>
+      <webElementGuid>66af20a3-2cbe-4388-801c-ea655db7042d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jangka Waktu'])[2]/preceding::select[1]</value>
+      <webElementGuid>a6b3d52e-707d-4509-b72a-7b0855c003c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hitung'])[1]/preceding::select[1]</value>
+      <webElementGuid>cdbc8ffc-5fd6-4d13-9eff-4eff4861f148</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>169c18f5-c0fd-4b31-8e4c-dc7acfccc0c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'waktu' and (text() = 'Jangka Waktu1 Tahun2 Tahun3 Tahun4 Tahun5 Tahun6 Tahun7 Tahun8 Tahun9 Tahun10 Tahun11 Tahun12 Tahun13 Tahun14 Tahun15 Tahun16 Tahun17 Tahun18 Tahun19 Tahun20 Tahun21 Tahun22 Tahun23 Tahun24 Tahun25 Tahun26 Tahun27 Tahun28 Tahun29 Tahun30 Tahun' or . = 'Jangka Waktu1 Tahun2 Tahun3 Tahun4 Tahun5 Tahun6 Tahun7 Tahun8 Tahun9 Tahun10 Tahun11 Tahun12 Tahun13 Tahun14 Tahun15 Tahun16 Tahun17 Tahun18 Tahun19 Tahun20 Tahun21 Tahun22 Tahun23 Tahun24 Tahun25 Tahun26 Tahun27 Tahun28 Tahun29 Tahun30 Tahun')]</value>
+      <webElementGuid>ea9f4a2b-2306-4511-85b8-30dfb6531a5a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
