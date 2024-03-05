@@ -23,6 +23,24 @@
       <value></value>
       <variableId>e954ca8c-576f-4ded-8d39-f53b672ff5e4</variableId>
    </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>33dd8dbb-01d0-4b0b-aa35-adb71c6b03aa</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>86b12b44-635f-4d3b-90b7-7fea94d3fd80</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b6649ffe-b1d8-435d-8a68-1d0f50fdf90e</variableId>
+   </variableLinks>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
@@ -43,5 +61,26 @@
       <id>e954ca8c-576f-4ded-8d39-f53b672ff5e4</id>
       <masked>false</masked>
       <name>JangkaWaktu</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>33dd8dbb-01d0-4b0b-aa35-adb71c6b03aa</id>
+      <masked>false</masked>
+      <name>form1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>86b12b44-635f-4d3b-90b7-7fea94d3fd80</id>
+      <masked>false</masked>
+      <name>form2</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b6649ffe-b1d8-435d-8a68-1d0f50fdf90e</id>
+      <masked>false</masked>
+      <name>form3</name>
    </variable>
 </TestCaseEntity>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>HHP</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>fc6445ca-bd56-4e11-8df6-258af57faf3d</testSuiteGuid>
+   <testCaseLink>
+      <guid>6abeeb97-63e1-4fee-96af-0afb79541b34</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/HHP/TC-HHP-01</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>f7a35211-ffd2-4b2b-9c7e-827fe8928b41</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DDT</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>f7a35211-ffd2-4b2b-9c7e-827fe8928b41</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Penghasilan</value>
+         <variableId>de1a7abe-b51a-440a-870d-b3ac4c56b2d4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f7a35211-ffd2-4b2b-9c7e-827fe8928b41</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Pengeluaran</value>
+         <variableId>f1c1aa2a-a2b4-494f-ada7-1d1fd0db9b23</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f7a35211-ffd2-4b2b-9c7e-827fe8928b41</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Jangka Waktu</value>
+         <variableId>e954ca8c-576f-4ded-8d39-f53b672ff5e4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>33dd8dbb-01d0-4b0b-aa35-adb71c6b03aa</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>86b12b44-635f-4d3b-90b7-7fea94d3fd80</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b6649ffe-b1d8-435d-8a68-1d0f50fdf90e</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

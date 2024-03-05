@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description></description>
-   <name>DDT-PositiveTC</name>
+   <name>DDT</name>
    <tag></tag>
    <connectionProperties/>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
-   <dataFileGUID>988e3904-e8c6-4203-b716-a8cde5c3dd49</dataFileGUID>
-   <dataSourceUrl>../../Documents/1-QA/Test by Companies/MII/BTN Properti Test/DDT-PositiveTC.xlsx</dataSourceUrl>
+   <dataFileGUID>0c334e81-7c96-45b3-9023-bcf68e567c3a</dataFileGUID>
+   <dataSourceUrl>../../Documents/1-QA/Test by Companies/MII/BTN Properti Test/DDT.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>true</isInternalPath>
    <query></query>
