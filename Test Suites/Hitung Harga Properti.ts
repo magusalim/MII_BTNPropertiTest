@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>HHP</name>
+   <name>Hitung Harga Properti</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -15,7 +15,7 @@
       <guid>6abeeb97-63e1-4fee-96af-0afb79541b34</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/HHP/TC-HHP-01</testCaseId>
+      <testCaseId>Test Cases/Hitung Harga Properti/TC-HHP-01</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>f7a35211-ffd2-4b2b-9c7e-827fe8928b41</id>
@@ -23,7 +23,7 @@
             <iterationType>ALL</iterationType>
             <value></value>
          </iterationEntity>
-         <testDataId>Data Files/DDT</testDataId>
+         <testDataId>Data Files/Data Test - Hitung Harga Properti</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
